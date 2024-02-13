@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Anurup</h1>
-<h3 align="center">I am a skilled competitive coder with experience in backend development and proficiency in Flutter app development.</h3>
+<h3 align="center">I am a skilled competitive coder with experience in backend development and proficiency in Node.js and Express.js development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurup1207&label=Profile%20views&color=0e75b6&style=flat" alt="anurup1207" /> </p>
 
